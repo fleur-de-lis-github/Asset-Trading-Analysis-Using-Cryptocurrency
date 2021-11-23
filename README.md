@@ -11,6 +11,9 @@
 
 ## My Approach
 
+![Screenshot (1609)](https://user-images.githubusercontent.com/73738414/143059648-467633fe-1461-45ae-851d-7e03a28c77b3.png)
+
+
 ### Problem Scenario
 
 Cryptocurrencies are a digital way of money in which all transactions are held electronically. It is a soft currency which doesn’t exist in the form of hard notes physically. Here, we are emphasizing the difference of fiat currency which is decentralized that without any third-party intervention all virtual currency users can get the services. However, getting services of these cryptocurrencies impacts on international relations and trade, due to its high price volatility. There are several virtual currencies such as bitcoin, ripple, ethereum, ethereum classic, lite coin, etc. In our study, we especially focused on a popular cryptocurrency, i.e., bitcoin. From many types of virtual currencies, bitcoin has a great acceptance by different bodies such as investors, researchers, traders, and policy-makers.
